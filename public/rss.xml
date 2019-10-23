@@ -1,0 +1,22 @@
+<rss version="2.0">
+  <channel>
+    <title>PodRoulette</title>
+    <link>https://podroulette.s3.us-west-2.amazonaws.com</link>
+    <description>List of podcasts for shuffling</description>
+    <item>
+      <title>99% Invisible</title>
+      <link>https://open.spotify.com/show/2VRS1IJCTn2Nlkg33ZVfkM?si=PDRbT0xfTsuAYMlTxrRSPQ</link>
+      <description>A super cool description</description>
+    </item>
+    <item>
+      <title>Household Name</title>
+      <link>https://open.spotify.com/show/65jkyYyq6YvDt8uOZXubm6?si=9Rdf2tXyTk6NzpLG4Py_vA</link>
+      <description>A super cool description</description>
+    </item>
+    <item>
+      <title>The Daily</title>
+      <link>https://open.spotify.com/show/3IM0lmZxpFAY7CwMuv9H4g?si=2SLKR2MHQuKNZUwIfsew1A</link>
+      <description>A super cool description</description>
+    </item>
+  </channel>
+</rss>
