@@ -1,5 +1,5 @@
 I listen to a ton of podcasts, and often it's difficult to decide which one to listen to.
-Sometimes machines are better to delegate these decisions to 🤖.
+Sometimes it's better to delegate these decisions to machines 🤖.
 
 Enter PodRoulette.
 
