@@ -9,3 +9,5 @@ I have an iOS [shortcut](https://apps.apple.com/us/app/shortcuts/id915249334) th
 The shortcut is configured like this:
 
 ![Screenshot of shortcut](img/podroulette.jpg)
+
+Enjoy all the free time you have now from having your podcasts chosen for you 🌴.
