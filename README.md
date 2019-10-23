@@ -1,4 +1,5 @@
 I listen to a ton of podcasts, and often it's difficult to decide which one to listen to.
+Sometimes machines are better to delegate these decisions to 🤖.
 
 Enter PodRoulette.
 
@@ -7,3 +8,4 @@ I have an iOS [shortcut](https://apps.apple.com/us/app/shortcuts/id915249334) th
 
 The shortcut is configured like this:
 
+![Screenshot of shortcut](img/podroulette.jpg)
