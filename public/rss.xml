@@ -1,267 +1,278 @@
 <rss version="2.0">
-  <channel>
-    <title>PodRoulette</title>
-    <link>https://podroulette.s3.us-west-2.amazonaws.com</link>
-    <description>List of podcasts for shuffling</description>
-    <item>
-      <title>99% Invisible</title>
-      <link>https://open.spotify.com/show/2VRS1IJCTn2Nlkg33ZVfkM?si=PDRbT0xfTsuAYMlTxrRSPQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>The Dollop</title>
-      <link>https://open.spotify.com/show/3m9c2ibJOYiigvVuswYSgU?si=fkqAN_HyRTeJ8YbWjRZT8Q</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>No such thing as a fish</title>
-      <link>https://open.spotify.com/show/4pqW0HTIeZcx7vqHpwzmZj?si=md7XjVVpSR21lJZjVtVVjA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Last Podcast on the Left</title>
-      <link>https://open.spotify.com/show/3yZg2MCkf31pPXiG4nznrg?si=Izn5OiWWSDqQKu5DHdrrjg</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Scam Goddess</title>
-      <link>https://open.spotify.com/show/0Vdp4gyQoY0kkcvaLnIgvx?si=TpC6iq4LSz-i9xX3mpwGig</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Happiness Lab</title>
-      <link>https://open.spotify.com/show/3i5TCKhc6GY42pOWkpWveG?si=QGVc8yqcRYSNbR9srbJr9g</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>TED Radio Hour</title>
-      <link>https://open.spotify.com/show/1vfOw64nKjQ8LzZDPCfRaO?si=VSGXtedUQCGvyYI3Q4gNPA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Darknet Diaries</title>
-      <link>https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=TQsalZ07Q52E1ZGdCWWScQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Making Sense</title>
-      <link>https://open.spotify.com/show/5rgumWEx4FsqIY8e1wJNAk?si=S8Acim56Tvm9G6-viYft5A</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Changelog</title>
-      <link>https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ?si=SRSzyP8wTmmQJ27BYR0O8A</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Robinhood Snacks</title>
-      <link>https://open.spotify.com/show/5RllMBgvDnTau8nnsCUdse?si=UfnkHYHERUGmh_Mraceq3A</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Hanselminutes</title>
-      <link>https://open.spotify.com/show/4SrTUZr1s5C4SJmUxDIUDc?si=RBNzDGAES7aIfSxwgmh5qg</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Science Friday</title>
-      <link>https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC?si=YZsTg2SFRNO8awCVHiXN8A</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Slow Burn</title>
-      <link>https://open.spotify.com/show/2ON0PNRRNs9zWEAy2YPeAc?si=nR_AwD0tTDe2fSQn8XS9MQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Against the Rules</title>
-      <link>https://open.spotify.com/show/5vaBQ06qUNNU5w90KMnqw8?si=LfXvAv4kTsG1VlzpV1j_7g</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Nice Try</title>
-      <link>https://open.spotify.com/show/0uEe8tfzHciU3soYBs6ssU?si=HmHYml0mSQWxtQe03iR0BQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Skeptoid</title>
-      <link>https://open.spotify.com/show/1Vi8T6WT1HAKVwFfWc4A3a?si=1T89NmDSSE6iGJrd_Py8MQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>BiggerPockets</title>
-      <link>https://open.spotify.com/show/23JyccHPmQ8fzmpmnvQ6hR?si=bxqJwh0wThC-2pAsYHri0Q</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>How I Built This</title>
-      <link>https://open.spotify.com/show/6E709HRH7XaiZrMfgtNCun?si=AsKUm9pBQE6RyUB4tdD7LA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>Invisibilia</title>
-      <link>https://open.spotify.com/show/1Tgsr2BDHLSQ44YsOwoguj?si=m2sc0gbOQ4KGs_Ri_5Quqw</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>Fresh Air</title>
-      <link>https://open.spotify.com/show/0HF5T1BVjaUR6dMlAamdB5?si=n3BltPw1Q3-f5iNqYu5xCA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>This American Life</title>
-      <link>https://podcasts.google.com/?feed=aHR0cDovL2ZlZWQudGhpc2FtZXJpY2FubGlmZS5vcmcvdGFscG9kY2FzdA%3D%3D</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>The Future of Everything</title>
-      <link>https://open.spotify.com/show/2KICk2MxwEn9csPnvDQt6Q?si=J_GuC5n-QtuJiiXSyQ9sRA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>Big Picture Science</title>
-      <link>https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL?si=-XfxA6z9RAeEUCu38-6Bxg</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>StarTalk</title>
-      <link>https://open.spotify.com/show/1mNsuXfG95Lf76YQeVMuo1?si=VTe-xvKRR5mF-ZjbdzX2GA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>Today, Explained</title>
-      <link>https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A?si=958_B5gtT62oCTRkPasYrg</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>A Way with Words</title>
-      <link>https://open.spotify.com/show/4kI0Pb9Tq9SQXDJVzLI7A5?si=rCjZOyDSSLiVk2v7a5fEtQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>Talk Nerdy</title>
-      <link>https://open.spotify.com/show/7dqKb3vWJ0bpysM4iuJf6o?si=VPgk7G_0R02bZRYW7k19WA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-    <title>Stuff You Should Know</title>
-      <link>https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx?si=KzxiXO4oTj640anRVJenMQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Household Name</title>
-      <link>https://open.spotify.com/show/65jkyYyq6YvDt8uOZXubm6?si=9Rdf2tXyTk6NzpLG4Py_vA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>The Daily</title>
-      <link>https://open.spotify.com/show/3IM0lmZxpFAY7CwMuv9H4g?si=2SLKR2MHQuKNZUwIfsew1A</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>My Dad Wrote A Porno</title>
-      <link>https://open.spotify.com/show/6nYCARKKZ5UvaUedL6KEu3?si=MpWe81TGQnK3BbqDYhZLKQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Planet Money</title>
-      <link>https://open.spotify.com/show/4FYpq3lSeQMAhqNI81O0Cn?si=noACSeZNRlesecFhG5y00w</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Pod Save America</title>
-      <link>https://open.spotify.com/show/5JGorGvdwljJHTl6wpMXN3?si=1u-P1DedTXq8N9Nnv_wMHQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Radiolab</title>
-      <link>https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL?si=ORLr8gtyTdGoTeFxz3AH6Q</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Reply All</title>
-      <link>https://open.spotify.com/show/7gozmLqbcbr6PScMjc0Zl4?si=Pr5-PekcRIaU77xke7A7KA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Sawbones</title>
-      <link>https://open.spotify.com/show/0QCiNINmwgA6X4Z4nlnh5G?si=oob95-pQTtGzeEad5_KvFQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Science Vs</title>
-      <link>https://open.spotify.com/show/5lY4b5PGOvMuOYOjOVEcb9?si=W3O2jyGLSbG-gBJG8TyVXg</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Risky Business</title>
-      <link>https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ?si=mnsQqu1zQcu1HVXT1mv9SA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Security Now</title>
-      <link>https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw?si=xBu398owS1S0m9VbJQ1j7g</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Skeptic's Guide to the Universe</title>
-      <link>https://open.spotify.com/show/4RVc0stLre1yB5Ac3hiAPl?si=K29RTjarToShnfXroh2qSA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Revisionist History</title>
-      <link>https://open.spotify.com/show/2LOJaYKijiwNefCvzczyib?si=Goo2u9qvRDyPgdbfWxgQaQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Decrypted</title>
-      <link>https://open.spotify.com/show/6hETi9oBd26vc0bRgXYN5W?si=2CUtNRcGTsu4eKDW_5HWsg</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Freakonomics</title>
-      <link>https://open.spotify.com/show/6z4NLXyHPga1UmSJsPK7G1?si=laiUe5HHTtyXBXr10NtMDQ</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Hidden Brain</title>
-      <link>https://open.spotify.com/show/20Gf4IAauFrfj7RBkjcWxh?si=1beuu7ZSQwOIfvVNHJqGlg</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Sleepwalkers</title>
-      <link>https://open.spotify.com/show/3gkLkDGuc1avcwMYmoOchw?si=Kld4rnQaSkudLhFwsZAszw</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Hardcore History</title>
-      <link>https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q?si=ze11XpdDSRiHpYHxx-v10w</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Fareed GPS</title>
-      <link>https://open.spotify.com/show/6szwYa6aIaSo6aouMceUpo?si=tQFlsm_YQLSfZglOZi9rwA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Cortex</title>
-      <link>https://open.spotify.com/show/4Lw4qmTGLzoTnM0Vris3fO?si=G-IqqJiISCy_D_Zc8lddHA</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>The Vergecast</title>
-      <link>https://open.spotify.com/show/08zQP2peZmM9GrcKShLZvC?si=6M1qLtBLTyCtL3Nx64ZYGw</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Do By Friday</title>
-      <link>https://open.spotify.com/show/3jUo0PoU7D6Zjx3G3vzho5?si=jbqBKe15Qj6e0zIe2BBi5Q</link>
-      <description>A super cool description</description>
-    </item>
-    <item>
-      <title>Darknet Diaries</title>
-      <link>https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=VmnSYg4FRteeWbjFB3iNHg</link>
-      <description>A super cool description</description>
-    </item>
-  </channel>
+    <channel>
+        <title>PodRoulette</title>
+        <link>https://podroulette.s3.us-west-2.amazonaws.com</link>
+        <description>List of podcasts for shuffling</description>
+        <item>
+            <title>99% Invisible</title>
+            <link>https://open.spotify.com/show/2VRS1IJCTn2Nlkg33ZVfkM?si=PDRbT0xfTsuAYMlTxrRSPQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>The Dollop</title>
+            <link>https://open.spotify.com/show/3m9c2ibJOYiigvVuswYSgU?si=fkqAN_HyRTeJ8YbWjRZT8Q</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>No such thing as a fish</title>
+            <link>https://open.spotify.com/show/4pqW0HTIeZcx7vqHpwzmZj?si=md7XjVVpSR21lJZjVtVVjA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Last Podcast on the Left</title>
+            <link>https://open.spotify.com/show/3yZg2MCkf31pPXiG4nznrg?si=Izn5OiWWSDqQKu5DHdrrjg</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Scam Goddess</title>
+            <link>https://open.spotify.com/show/0Vdp4gyQoY0kkcvaLnIgvx?si=TpC6iq4LSz-i9xX3mpwGig</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Happiness Lab</title>
+            <link>https://open.spotify.com/show/3i5TCKhc6GY42pOWkpWveG?si=QGVc8yqcRYSNbR9srbJr9g</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>TED Radio Hour</title>
+            <link>https://open.spotify.com/show/1vfOw64nKjQ8LzZDPCfRaO?si=VSGXtedUQCGvyYI3Q4gNPA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Darknet Diaries</title>
+            <link>https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=TQsalZ07Q52E1ZGdCWWScQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Making Sense</title>
+            <link>https://open.spotify.com/show/5rgumWEx4FsqIY8e1wJNAk?si=S8Acim56Tvm9G6-viYft5A</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Changelog</title>
+            <link>https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ?si=SRSzyP8wTmmQJ27BYR0O8A</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Robinhood Snacks</title>
+            <link>https://open.spotify.com/show/5RllMBgvDnTau8nnsCUdse?si=UfnkHYHERUGmh_Mraceq3A</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Hanselminutes</title>
+            <link>https://open.spotify.com/show/4SrTUZr1s5C4SJmUxDIUDc?si=RBNzDGAES7aIfSxwgmh5qg</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Science Friday</title>
+            <link>https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC?si=YZsTg2SFRNO8awCVHiXN8A</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Slow Burn</title>
+            <link>https://open.spotify.com/show/2ON0PNRRNs9zWEAy2YPeAc?si=nR_AwD0tTDe2fSQn8XS9MQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Against the Rules</title>
+            <link>https://open.spotify.com/show/5vaBQ06qUNNU5w90KMnqw8?si=LfXvAv4kTsG1VlzpV1j_7g</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Nice Try</title>
+            <link>https://open.spotify.com/show/0uEe8tfzHciU3soYBs6ssU?si=HmHYml0mSQWxtQe03iR0BQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Skeptoid</title>
+            <link>https://open.spotify.com/show/1Vi8T6WT1HAKVwFfWc4A3a?si=1T89NmDSSE6iGJrd_Py8MQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>BiggerPockets</title>
+            <link>https://open.spotify.com/show/23JyccHPmQ8fzmpmnvQ6hR?si=bxqJwh0wThC-2pAsYHri0Q</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>How I Built This</title>
+            <link>https://open.spotify.com/show/6E709HRH7XaiZrMfgtNCun?si=AsKUm9pBQE6RyUB4tdD7LA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Invisibilia</title>
+            <link>https://open.spotify.com/show/1Tgsr2BDHLSQ44YsOwoguj?si=m2sc0gbOQ4KGs_Ri_5Quqw</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Fresh Air</title>
+            <link>https://open.spotify.com/show/0HF5T1BVjaUR6dMlAamdB5?si=n3BltPw1Q3-f5iNqYu5xCA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>This American Life</title>
+            <link>https://podcasts.google.com/?feed=aHR0cDovL2ZlZWQudGhpc2FtZXJpY2FubGlmZS5vcmcvdGFscG9kY2FzdA%3D%3D
+            </link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>The Future of Everything</title>
+            <link>https://open.spotify.com/show/2KICk2MxwEn9csPnvDQt6Q?si=J_GuC5n-QtuJiiXSyQ9sRA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Big Picture Science</title>
+            <link>https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL?si=-XfxA6z9RAeEUCu38-6Bxg</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>StarTalk</title>
+            <link>https://open.spotify.com/show/1mNsuXfG95Lf76YQeVMuo1?si=VTe-xvKRR5mF-ZjbdzX2GA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Today, Explained</title>
+            <link>https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A?si=958_B5gtT62oCTRkPasYrg</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>A Way with Words</title>
+            <link>https://open.spotify.com/show/4kI0Pb9Tq9SQXDJVzLI7A5?si=rCjZOyDSSLiVk2v7a5fEtQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Talk Nerdy</title>
+            <link>https://open.spotify.com/show/7dqKb3vWJ0bpysM4iuJf6o?si=VPgk7G_0R02bZRYW7k19WA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Stuff You Should Know</title>
+            <link>https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx?si=KzxiXO4oTj640anRVJenMQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Household Name</title>
+            <link>https://open.spotify.com/show/65jkyYyq6YvDt8uOZXubm6?si=9Rdf2tXyTk6NzpLG4Py_vA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>The Daily</title>
+            <link>https://open.spotify.com/show/3IM0lmZxpFAY7CwMuv9H4g?si=2SLKR2MHQuKNZUwIfsew1A</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>My Dad Wrote A Porno</title>
+            <link>https://open.spotify.com/show/6nYCARKKZ5UvaUedL6KEu3?si=MpWe81TGQnK3BbqDYhZLKQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Planet Money</title>
+            <link>https://open.spotify.com/show/4FYpq3lSeQMAhqNI81O0Cn?si=noACSeZNRlesecFhG5y00w</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Pod Save America</title>
+            <link>https://open.spotify.com/show/5JGorGvdwljJHTl6wpMXN3?si=1u-P1DedTXq8N9Nnv_wMHQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Radiolab</title>
+            <link>https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL?si=ORLr8gtyTdGoTeFxz3AH6Q</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Reply All</title>
+            <link>https://open.spotify.com/show/7gozmLqbcbr6PScMjc0Zl4?si=Pr5-PekcRIaU77xke7A7KA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Sawbones</title>
+            <link>https://open.spotify.com/show/0QCiNINmwgA6X4Z4nlnh5G?si=oob95-pQTtGzeEad5_KvFQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Science Vs</title>
+            <link>https://open.spotify.com/show/5lY4b5PGOvMuOYOjOVEcb9?si=W3O2jyGLSbG-gBJG8TyVXg</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Risky Business</title>
+            <link>https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ?si=mnsQqu1zQcu1HVXT1mv9SA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Security Now</title>
+            <link>https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw?si=xBu398owS1S0m9VbJQ1j7g</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Skeptic's Guide to the Universe</title>
+            <link>https://open.spotify.com/show/4RVc0stLre1yB5Ac3hiAPl?si=K29RTjarToShnfXroh2qSA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Revisionist History</title>
+            <link>https://open.spotify.com/show/2LOJaYKijiwNefCvzczyib?si=Goo2u9qvRDyPgdbfWxgQaQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Decrypted</title>
+            <link>https://open.spotify.com/show/6hETi9oBd26vc0bRgXYN5W?si=2CUtNRcGTsu4eKDW_5HWsg</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Freakonomics</title>
+            <link>https://open.spotify.com/show/6z4NLXyHPga1UmSJsPK7G1?si=laiUe5HHTtyXBXr10NtMDQ</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Hidden Brain</title>
+            <link>https://open.spotify.com/show/20Gf4IAauFrfj7RBkjcWxh?si=1beuu7ZSQwOIfvVNHJqGlg</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Sleepwalkers</title>
+            <link>https://open.spotify.com/show/3gkLkDGuc1avcwMYmoOchw?si=Kld4rnQaSkudLhFwsZAszw</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Hardcore History</title>
+            <link>https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q?si=ze11XpdDSRiHpYHxx-v10w</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Fareed GPS</title>
+            <link>https://open.spotify.com/show/6szwYa6aIaSo6aouMceUpo?si=tQFlsm_YQLSfZglOZi9rwA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Cortex</title>
+            <link>https://open.spotify.com/show/4Lw4qmTGLzoTnM0Vris3fO?si=G-IqqJiISCy_D_Zc8lddHA</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>The Vergecast</title>
+            <link>https://open.spotify.com/show/08zQP2peZmM9GrcKShLZvC?si=6M1qLtBLTyCtL3Nx64ZYGw</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Do By Friday</title>
+            <link>https://open.spotify.com/show/3jUo0PoU7D6Zjx3G3vzho5?si=jbqBKe15Qj6e0zIe2BBi5Q</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Darknet Diaries</title>
+            <link>https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=VmnSYg4FRteeWbjFB3iNHg</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Anthropocene Reviewed</title>
+            <link>https://open.spotify.com/show/3scirzcuaGm02MQ4FUZydq?si=P2hFSxvjTsipdsAhHQk90g</link>
+            <description>A super cool description</description>
+        </item>
+        <item>
+            <title>Worst Year Ever</title>
+            <link>https://open.spotify.com/show/0qALd5nHHsC1SKy3nCYb7A?si=HiJzUEHtQJ2lKYjS4K4snw</link>
+            <description>A super cool description</description>
+        </item>
+    </channel>
 </rss>
